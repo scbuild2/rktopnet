@@ -3,9 +3,9 @@ cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
 
 #Database Details
 db_host='172.105.250.34';
-db_user='scvpnapp_yoyop';
-db_pass='@@AlaMinbd27';
-db_name='scvpnapp_yoyop';
+db_user='scvpnapp_rktopnet';
+db_pass='@@@F1er3n3t';
+db_name='scvpnapp_rktopnet';
 
 install_require()
 {
