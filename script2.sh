@@ -1,10 +1,10 @@
 #!/bin/bash
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
-HOST='172.105.250.34';
-USER='scvpnapp_rktopnet';
+HOST='192.46.215.131';
+USER='rktopnet_oman';
 PASS='@@@F1er3n3t';
-DBNAME='scvpnapp_rktopnet';
+DBNAME='rktopnet_oman';
 
 install_require()
 {
